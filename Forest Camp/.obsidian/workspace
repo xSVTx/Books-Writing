@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "ee6f3f66bac21134",
+    "type": "split",
+    "children": [
+      {
+        "id": "813243bf53b50a54",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/2021-07-23.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d9172c096b47fc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fde082484b302c89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519dbcbc82ee6930",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb44f962b9619a07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3fc607a73cefd988",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 184
+  },
+  "right": {
+    "id": "b174c8cf6445dc28",
+    "type": "split",
+    "children": [
+      {
+        "id": "882fc5debc5a919e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a150ec4c6f67370",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/2021-07-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ecbafa6c511be7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8cf2a1af32c97548",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/2021-07-23.md"
+              }
+            }
+          },
+          {
+            "id": "e82fa82d710e7b18",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f70f8ffcf0282de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "38cd13f6b968900c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d664594567905fa7",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "813243bf53b50a54",
+  "lastOpenFiles": [
+    "Inbox/2021-07-23.md",
+    "Inbox/2021-07-16.md",
+    "Inbox/2021-07-17.md",
+    "Inbox/Мой план на день.md",
+    "Inbox/Untitled.md",
+    "Template.md",
+    "Inbox/Составляющие хорошего времяпрепровождения в лагере.md",
+    "Inbox/Список вещей в лагерь.md",
+    "Files/Отсутствие судимостей.pdf",
+    "Inbox/2021-07-12.md"
+  ]
+}
